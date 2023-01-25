@@ -1,5 +1,5 @@
 # Non Newtonian Fluid Mechanics Project. June 2018 
-A group project where we modelled the Dynamics of Newtonian and Viscoelastic Fluids across several problems. We also performed a numerical investigation. 
+In this group project we modelled the Dynamics of Newtonian and Viscoelastic Fluids across several problems. We also performed a numerical investigation. 
 
 Project Title: Non-Newtonian Fluid Mechanics. \
 Authors: Manuel Ehrlich, James Hamilton, Chang Jiang, Antonio Marques, Benjamin McMillan. \
