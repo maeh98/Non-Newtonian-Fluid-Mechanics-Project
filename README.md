@@ -2,7 +2,7 @@
 A group project where we modelled the Dynamics of Newtonian and Viscoelastic Fluids across several problems. We also performed a numerical investigation. 
 
 Project Title: Non-Newtonian Fluid Mechanics. \
-Authors: Manuel Ehrlich, James Hamilton, Chang Jiang, Antonio Marques, Benjamin McMillan.
+Authors: Manuel Ehrlich, James Hamilton, Chang Jiang, Antonio Marques, Benjamin McMillan. \
 Supervisor: Dr. Prasun Ray.
  
 Abstract:
