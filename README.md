@@ -1,12 +1,11 @@
-# Non Newtonian Fluid Mechanics Project. June 2018 \
-A group project where we modelled the Dynamics of Newtonian and Viscoelastic Fluids across several problems. We also performed a numerical investigation. \
+# Non Newtonian Fluid Mechanics Project. June 2018 
+A group project where we modelled the Dynamics of Newtonian and Viscoelastic Fluids across several problems. We also performed a numerical investigation. 
 
 Project Title: Non-Newtonian Fluid Mechanics.
-Creators: Manuel Ehrlich, James Hamilton, Chang Jiang, Antonio Marques, Benjamin McMillan.
-Supervised Supervisor: Dr. Prasun Ray.
- -------------------------------------------------------------------------
+Authors: Manuel Ehrlich, James Hamilton, Chang Jiang, Antonio Marques, Benjamin McMillan.
+Supervisor: Dr. Prasun Ray.
  
-Abstract:\
+Abstract:
 Non-Newtonian fluids are hugely important in our lives; from the blood in our veins to the ketchup in
 our kitchen cupboards, we come into contact with them every day. They are essential in a wide range of
 subjects, such as chemical engineering and pharmaceutics, so it is useful to develop and understand the
